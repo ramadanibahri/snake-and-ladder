@@ -1,8 +1,3 @@
-// Evi Nur Kharisma 22-035
-// Wahyudi Firmansyah 22-044
-// Ahmad Ramadani Bahri 22-089
-// Ilham Syah Putra 22-137
-
 #include <windows.h>
 
 #ifdef __APPLE__
